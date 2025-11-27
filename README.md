@@ -8,6 +8,10 @@ Local LLMs can be downloaded as `.gguf` models. You can find these on [Hugging F
 
 # Quick Start
 
+```bash
+pip install corellm
+```
+
 ```python
 from corellm import LLM
 
